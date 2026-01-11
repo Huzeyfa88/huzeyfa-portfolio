@@ -7,7 +7,7 @@ export default function Projects() {
     },
     {
       name: "Salary Analysis",
-      description: "Demonstrates **data cleaning, transformation, and professional visualization skills",
+      description: "Demonstrates Data cleaning, transformation, and professional visualization skills",
       link: "https://github.com/Huzeyfa88/Salary-analysis",
     },
     {
