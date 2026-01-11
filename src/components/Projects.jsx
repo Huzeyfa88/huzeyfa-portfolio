@@ -6,6 +6,11 @@ export default function Projects() {
       link: "https://huzeyfa-portfolio-three.vercel.app",
     },
     {
+      name: "Salary Analysis",
+      description: "Demonstrates **data cleaning, transformation, and professional visualization skills",
+      link: "https://github.com/Huzeyfa88/Salary-analysis",
+    },
+    {
       name: "Clinic Website",
       description: "Full-stack website for Dr. Feysel Dermatology Clinic.",
       link: "https://lovable.dev/projects/2173df7d-dbe1-4583-a531-873c8aa19922",
